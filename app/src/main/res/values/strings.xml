@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">The Sceond Task</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="default_orders">1</string>
+    <string name="add_to_order">Add to Order</string>
+    <string name="size_12">12 Fl Oz</string>
+    <string name="size_16">16 Fl Oz</string>
+    <string name="size_24">24 Fl Oz</string>
+    <string name="custom_size">__ Fl Oz</string>
+    <string name="tall">Tall</string>
+    <string name="grande">Grande</string>
+    <string name="venti">Venti</string>
+    <string name="custom">Custom</string>
+    <string name="options">Size Options</string>
+    <string name="caramel_frappuccino">Caramel Frappuccino</string>
+    <string name="cost">$30.00</string>
+    <string name="best_sales">Best Sales</string>
+    <string name="details">Details</string>
+</resources>
